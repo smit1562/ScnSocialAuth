@@ -18,7 +18,7 @@
         "zendframework/zendframework": "2.*",
         "zf-commons/zfc-base": "0.*",
         "zf-commons/zfc-user": "0.*",
-        "hybridauth/hybridauth": "dev-master"
+        "hybridauth/hybridauth": "*@dev"
     },
     "require-dev": {
         "mockery/mockery": ">=0.7.2"
